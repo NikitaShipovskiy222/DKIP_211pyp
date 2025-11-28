@@ -11,8 +11,8 @@
 Подробнее см. в docs/index.md.
 
 
-- TL- Gavrilin 
-- devNull - Lebedev
-- devFirst - Shipovskiy
+- TL- Gavrilin (xxfreqw)
+- devNull - Lebedev (plast1KK)
+- devFirst - Shipovskiy (main)
 
-- support's - Aytkulov, Perepelkin, Grisha
+- support's - Aytkulov(jamik-nomad), Perepelkin(nill), Grishin (officialgrishin)
